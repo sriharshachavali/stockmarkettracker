@@ -1,0 +1,108 @@
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.16, 'regularMarketVolume': 66555933, 'regularMarketChangePercent': 3.3492908, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.23, 'regularMarketVolume': 62425698, 'regularMarketChangePercent': 9.12162, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.34, 'regularMarketVolume': 54095835, 'regularMarketChangePercent': 1.73913, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.17, 'regularMarketVolume': 43260748, 'regularMarketChangePercent': 4.27632, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.49, 'regularMarketVolume': 42402193, 'regularMarketChangePercent': 5.9574513, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 1.96, 'regularMarketVolume': 28776638, 'regularMarketChangePercent': -13.2743, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.21, 'regularMarketVolume': 27809842, 'regularMarketChangePercent': 2.79069, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.45, 'regularMarketVolume': 20472318, 'regularMarketChangePercent': 1.1363572, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.36, 'regularMarketVolume': 17295447, 'regularMarketChangePercent': 5.32915, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'BB', 'shortName': 'BlackBerry Limited', 'regularMarketPrice': 4.52, 'regularMarketVolume': 17222133, 'regularMarketChangePercent': -0.440528, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.71, 'regularMarketVolume': 15867675, 'regularMarketChangePercent': 1.08992, 'timestamp': '2025-03-18 00:00:00'}
+{'symbol': 'CIG', 'shortName': 'Comp En De Mn Cemig', 'regularMarketPrice': 1.93, 'regularMarketVolume': 14504842, 'regularMarketChangePercent': 1.04712, 'timestamp': '2025-03-18 00:00:00'}
+
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.34, 'regularMarketVolume': 24302767, 'regularMarketChangePercent': 8.333325, 'timestamp': '2025-03-18 09:00:00'}
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.395, 'regularMarketVolume': 31102410, 'regularMarketChangePercent': 10.904866, 'timestamp': '2025-03-18 09:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.285, 'regularMarketVolume': 6157344, 'regularMarketChangePercent': 1.7027885, 'timestamp': '2025-03-18 09:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.525, 'regularMarketVolume': 5393879, 'regularMarketChangePercent': 1.6853998, 'timestamp': '2025-03-18 09:00:00'}
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.42, 'regularMarketVolume': 51011090, 'regularMarketChangePercent': 12.037037, 'timestamp': '2025-03-18 10:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.29, 'regularMarketVolume': 10547203, 'regularMarketChangePercent': 1.8575834, 'timestamp': '2025-03-18 10:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.545, 'regularMarketVolume': 7071386, 'regularMarketChangePercent': 2.1348376, 'timestamp': '2025-03-18 10:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.46, 'regularMarketVolume': 6393219, 'regularMarketChangePercent': -1.2048181, 'timestamp': '2025-03-18 10:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.1802, 'regularMarketVolume': 5781543, 'regularMarketChangePercent': -1.3484135, 'timestamp': '2025-03-18 10:00:00'}
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.4, 'regularMarketVolume': 77807429, 'regularMarketChangePercent': 11.059908, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.295, 'regularMarketVolume': 22313883, 'regularMarketChangePercent': 2.0123856, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.465, 'regularMarketVolume': 16558511, 'regularMarketChangePercent': -1.0040199, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.515, 'regularMarketVolume': 12504015, 'regularMarketChangePercent': 1.4606755, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.6936, 'regularMarketVolume': 9366485, 'regularMarketChangePercent': -0.44246858, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.305, 'regularMarketVolume': 7628837, 'regularMarketChangePercent': -0.5565329, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.19, 'regularMarketVolume': 6864278, 'regularMarketChangePercent': -0.9049356, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.325, 'regularMarketVolume': 6790552, 'regularMarketChangePercent': -1.042562, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.2099, 'regularMarketVolume': 6351561, 'regularMarketChangePercent': 2.931534, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.08, 'regularMarketVolume': 5910998, 'regularMarketChangePercent': 6.106864, 'timestamp': '2025-03-18 11:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.1699, 'regularMarketVolume': 5805690, 'regularMarketChangePercent': -0.003168754, 'timestamp': '2025-03-18 11:00:00'}
+
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.4113, 'regularMarketVolume': 118625476, 'regularMarketChangePercent': 11.634253, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.31, 'regularMarketVolume': 31696106, 'regularMarketChangePercent': 2.4767778, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.49, 'regularMarketVolume': 25053755, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.62, 'regularMarketVolume': 19658151, 'regularMarketChangePercent': 3.8202267, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.21, 'regularMarketVolume': 18417688, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.715, 'regularMarketVolume': 15229318, 'regularMarketChangePercent': 0.13476755, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.315, 'regularMarketVolume': 14753924, 'regularMarketChangePercent': -0.1251083, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.135, 'regularMarketVolume': 13098959, 'regularMarketChangePercent': -1.1041037, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.36, 'regularMarketVolume': 11773387, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.3449, 'regularMarketVolume': 8619996, 'regularMarketChangePercent': 6.232273, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.075, 'regularMarketVolume': 8277926, 'regularMarketChangePercent': 5.882354, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'MQ', 'shortName': 'Marqeta, Inc.', 'regularMarketPrice': 4.4, 'regularMarketVolume': 8168453, 'regularMarketChangePercent': 1.85185, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BB', 'shortName': 'BlackBerry Limited', 'regularMarketPrice': 4.4188, 'regularMarketVolume': 6803216, 'regularMarketChangePercent': -2.2389402, 'timestamp': '2025-03-18 12:00:00'}
+
+
+our: 2025-03-18 12:00:00
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.4113, 'regularMarketVolume': 118625476, 'regularMarketChangePercent': 11.634253, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.31, 'regularMarketVolume': 31696106, 'regularMarketChangePercent': 2.4767778, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.49, 'regularMarketVolume': 25053755, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.62, 'regularMarketVolume': 19658151, 'regularMarketChangePercent': 3.8202267, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.21, 'regularMarketVolume': 18417688, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.715, 'regularMarketVolume': 15229318, 'regularMarketChangePercent': 0.13476755, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.315, 'regularMarketVolume': 14753924, 'regularMarketChangePercent': -0.1251083, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.135, 'regularMarketVolume': 13098959, 'regularMarketChangePercent': -1.1041037, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.36, 'regularMarketVolume': 11773387, 'regularMarketChangePercent': 0.0, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.3449, 'regularMarketVolume': 8619996, 'regularMarketChangePercent': 6.232273, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.075, 'regularMarketVolume': 8277926, 'regularMarketChangePercent': 5.882354, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'MQ', 'shortName': 'Marqeta, Inc.', 'regularMarketPrice': 4.4, 'regularMarketVolume': 8168453, 'regularMarketChangePercent': 1.85185, 'timestamp': '2025-03-18 12:00:00'}
+{'symbol': 'BB', 'shortName': 'BlackBerry Limited', 'regularMarketPrice': 4.4188, 'regularMarketVolume': 6803216, 'regularMarketChangePercent': -2.2389402, 'timestamp': '2025-03-18 12:00:00'}
+
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.3918, 'regularMarketVolume': 132987595, 'regularMarketChangePercent': 10.7275, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.31, 'regularMarketVolume': 34472458, 'regularMarketChangePercent': 2.4844697, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.5, 'regularMarketVolume': 27674948, 'regularMarketChangePercent': 0.4008012, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.215, 'regularMarketVolume': 23550086, 'regularMarketChangePercent': 0.22623873, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.62, 'regularMarketVolume': 22436906, 'regularMarketChangePercent': 3.8202267, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.705, 'regularMarketVolume': 18082190, 'regularMarketChangePercent': -0.13459258, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.155, 'regularMarketVolume': 16480073, 'regularMarketChangePercent': -0.4731894, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.315, 'regularMarketVolume': 16000018, 'regularMarketChangePercent': -0.12537876, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.345, 'regularMarketVolume': 13704654, 'regularMarketChangePercent': -0.4457613, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.355, 'regularMarketVolume': 9736410, 'regularMarketChangePercent': 6.479214, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.075, 'regularMarketVolume': 8750654, 'regularMarketChangePercent': 5.8673472, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'MQ', 'shortName': 'Marqeta, Inc.', 'regularMarketPrice': 4.42, 'regularMarketVolume': 8482154, 'regularMarketChangePercent': 2.3148124, 'timestamp': '2025-03-18 13:00:00'}
+{'symbol': 'BB', 'shortName': 'BlackBerry Limited', 'regularMarketPrice': 4.44, 'regularMarketVolume': 7532571, 'regularMarketChangePercent': -1.7699099, 'timestamp': '2025-03-18 13:00:00'}
+
+Hour: 2025-03-18 23:00:00
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.35, 'regularMarketVolume': 179251068, 'regularMarketChangePercent': 8.796288, 'marketCap': 7124024832, 'averageAnalystRating': '3.1 - Hold', 'dividendYield': nan, 'regularMarketDayRange': '2.18 - 2.51', 'fiftyTwoWeekRange': '1.93 - 4.43', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.28, 'regularMarketVolume': 55028851, 'regularMarketChangePercent': 1.54799, 'marketCap': 4323662848, 'averageAnalystRating': '2.3 - Buy', 'dividendYield': 2.44, 'regularMarketDayRange': '3.25 - 3.35', 'fiftyTwoWeekRange': '2.2 - 3.5', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.21, 'regularMarketVolume': 40751505, 'regularMarketChangePercent': 0.0, 'marketCap': 21863133184, 'averageAnalystRating': nan, 'dividendYield': 8.19, 'regularMarketDayRange': '2.1714 - 2.22', 'fiftyTwoWeekRange': '1.84 - 2.98', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.6, 'regularMarketVolume': 35501571, 'regularMarketChangePercent': 3.3707886, 'marketCap': 18741043200, 'averageAnalystRating': '1.6 - Buy', 'dividendYield': nan, 'regularMarketDayRange': '4.5 - 4.68', 'fiftyTwoWeekRange': '2.98 - 5.72', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.49, 'regularMarketVolume': 32879772, 'regularMarketChangePercent': 0.0, 'marketCap': 2396931328, 'averageAnalystRating': nan, 'dividendYield': nan, 'regularMarketDayRange': '2.42 - 2.53', 'fiftyTwoWeekRange': '1.82 - 5.8', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.35, 'regularMarketVolume': 32372867, 'regularMarketChangePercent': 1.38294, 'marketCap': 36945522688, 'averageAnalystRating': '2.5 - Buy', 'dividendYield': 5.55, 'regularMarketDayRange': '2.28 - 2.36', 'fiftyTwoWeekRange': '1.76 - 2.56', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.2, 'regularMarketVolume': 28425720, 'regularMarketChangePercent': 0.946371, 'marketCap': 2812438272, 'averageAnalystRating': '2.5 - Buy', 'dividendYield': nan, 'regularMarketDayRange': '3.11 - 3.21', 'fiftyTwoWeekRange': '2.55 - 6.88', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.69, 'regularMarketVolume': 22153545, 'regularMarketChangePercent': -0.539083, 'marketCap': 55745200128, 'averageAnalystRating': nan, 'dividendYield': 4.29, 'regularMarketDayRange': '3.685 - 3.72', 'fiftyTwoWeekRange': '2.42 - 3.91', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'NGD', 'shortName': 'New Gold Inc.', 'regularMarketPrice': 3.34, 'regularMarketVolume': 19723304, 'regularMarketChangePercent': -0.595238, 'marketCap': 2645563904, 'averageAnalystRating': '2.5 - Buy', 'dividendYield': nan, 'regularMarketDayRange': '3.32 - 3.48', 'fiftyTwoWeekRange': '1.56 - 3.48', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.09, 'regularMarketVolume': 13137458, 'regularMarketChangePercent': 6.63265, 'marketCap': 3282950912, 'averageAnalystRating': '1.4 - Strong Buy', 'dividendYield': 0.48, 'regularMarketDayRange': '2.0201 - 2.12', 'fiftyTwoWeekRange': '1.5 - 2.69', 'timestamp': '2025-03-18 23:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.32, 'regularMarketVolume': 12747850, 'regularMarketChangePercent': 5.62347, 'marketCap': 3057013504, 'averageAnalystRating': '2.7 - Hold', 'dividendYield': 9.09, 'regularMarketDayRange': '4.2001 - 4.4', 'fiftyTwoWeekRange': '3.05 - 5.93', 'timestamp': '2025-03-18 23:00:00'}
+
+Hour: 2025-03-19 12:00:00
+{'symbol': 'LCID', 'shortName': 'Lucid Group, Inc.', 'regularMarketPrice': 2.4938, 'regularMarketVolume': 68516912, 'regularMarketChangePercent': 6.116027, 'marketCap': 7559954432, 'averageAnalystRating': '3.1 - Hold', 'dividendYield': nan, 'regularMarketDayRange': '2.36 - 2.57', 'fiftyTwoWeekRange': '1.93 - 4.43', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'BTG', 'shortName': 'B2Gold Corp', 'regularMarketPrice': 3.285, 'regularMarketVolume': 16904509, 'regularMarketChangePercent': 0.15221049, 'marketCap': 4330254336, 'averageAnalystRating': '2.3 - Buy', 'dividendYield': 2.44, 'regularMarketDayRange': '3.23 - 3.3', 'fiftyTwoWeekRange': '2.2 - 3.5', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'IQ', 'shortName': 'iQIYI, Inc.', 'regularMarketPrice': 2.5275, 'regularMarketVolume': 16344133, 'regularMarketChangePercent': 1.5060203, 'marketCap': 2433029376, 'averageAnalystRating': nan, 'dividendYield': nan, 'regularMarketDayRange': '2.42 - 2.54', 'fiftyTwoWeekRange': '1.82 - 5.8', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'ABEV', 'shortName': 'Ambev S.A.', 'regularMarketPrice': 2.355, 'regularMarketVolume': 12850300, 'regularMarketChangePercent': 0.21277083, 'marketCap': 37370552320, 'averageAnalystRating': '2.5 - Buy', 'dividendYield': 5.55, 'regularMarketDayRange': '2.33 - 2.37', 'fiftyTwoWeekRange': '1.76 - 2.56', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'RIG', 'shortName': 'Transocean Ltd (Switzerland)', 'regularMarketPrice': 3.22, 'regularMarketVolume': 12529006, 'regularMarketChangePercent': 0.6249994, 'marketCap': 2830016000, 'averageAnalystRating': '2.5 - Buy', 'dividendYield': nan, 'regularMarketDayRange': '3.19 - 3.27', 'fiftyTwoWeekRange': '2.55 - 6.88', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'LYG', 'shortName': 'Lloyds Banking Group Plc', 'regularMarketPrice': 3.74, 'regularMarketVolume': 12226170, 'regularMarketChangePercent': 1.3550122, 'marketCap': 56480735232, 'averageAnalystRating': nan, 'dividendYield': 4.29, 'regularMarketDayRange': '3.7 - 3.74', 'fiftyTwoWeekRange': '2.42 - 3.91', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'BBD', 'shortName': 'Banco Bradesco Sa', 'regularMarketPrice': 2.225, 'regularMarketVolume': 10861790, 'regularMarketChangePercent': 0.67728657, 'marketCap': 22011523072, 'averageAnalystRating': nan, 'dividendYield': 8.19, 'regularMarketDayRange': '2.19 - 2.24', 'fiftyTwoWeekRange': '1.84 - 2.98', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'GRAB', 'shortName': 'Grab Holdings Limited', 'regularMarketPrice': 4.67, 'regularMarketVolume': 9029101, 'regularMarketChangePercent': 1.5217429, 'marketCap': 19026233344, 'averageAnalystRating': '1.6 - Buy', 'dividendYield': nan, 'regularMarketDayRange': '4.575 - 4.7', 'fiftyTwoWeekRange': '2.98 - 5.72', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'RLX', 'shortName': 'RLX Technology Inc.', 'regularMarketPrice': 2.0675, 'regularMarketVolume': 7820710, 'regularMarketChangePercent': -1.0765455, 'marketCap': 3247608576, 'averageAnalystRating': '1.4 - Strong Buy', 'dividendYield': 0.48, 'regularMarketDayRange': '2.04 - 2.12', 'fiftyTwoWeekRange': '1.5 - 2.69', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'SBSW', 'shortName': 'D/B/A Sibanye-Stillwater Limite', 'regularMarketPrice': 4.455, 'regularMarketVolume': 6818348, 'regularMarketChangePercent': 3.124994, 'marketCap': 3152545024, 'averageAnalystRating': '2.7 - Hold', 'dividendYield': 9.09, 'regularMarketDayRange': '4.32 - 4.48', 'fiftyTwoWeekRange': '3.05 - 5.93', 'timestamp': '2025-03-19 12:00:00'}
+{'symbol': 'BB', 'shortName': 'BlackBerry Limited', 'regularMarketPrice': 4.505, 'regularMarketVolume': 5872234, 'regularMarketChangePercent': 2.154201, 'marketCap': 2671397632, 'averageAnalystRating': '3.0 - Hold', 'dividendYield': nan, 'regularMarketDayRange': '4.41 - 4.52', 'fiftyTwoWeekRange': '2.01 - 6.24', 'timestamp': '2025-03-19 12:00:00'}

@@ -1,0 +1,16 @@
+# finvizfinance
+# transformers
+# nest_asyncio
+# openai
+# llama_index
+# torch
+yahooquery
+openai
+yfinance
+prophet
+vaderSentiment
+snscrape
+pandas
+requests
+snowflake-connector-python
+vaderSentiment

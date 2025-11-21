@@ -1,0 +1,10 @@
+[
+  {
+    "ticker_name": "UAMY",
+    "company_name": null,
+    "last_watermark": null,
+    "ingest_dt_tm": "2025-11-17T03:30:09.788960+00:00",
+    "update_dt_tm": "2025-11-17T03:30:09.788960+00:00",
+    "error": "Retryable status 403 for https://efts.sec.gov/api/search?keys=UAMY"
+  }
+]
